@@ -1,0 +1,23 @@
+{
+  "repo": "waves-complete-2026-full",
+  "product": "Waves Complete 2026 Full",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "audio-plugins",
+  "topics": [
+    "waves-complete",
+    "channel-strip-desk",
+    "master-meter-windows",
+    "waves-2026",
+    "how-to-install-waves",
+    "waves-desktop-package",
+    "reverb-delay-suite",
+    "image-limiter-tools",
+    "mix-plugin-bundle",
+    "waves-bundle-2026"
+  ],
+  "site": "toolix.me"
+}
